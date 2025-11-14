@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\bin\Debug\net8.0\vacationapp.exe
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\bin\Debug\net8.0\vacationapp.deps.json
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\bin\Debug\net8.0\vacationapp.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\bin\Debug\net8.0\vacationapp.dll
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\bin\Debug\net8.0\vacationapp.pdb
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\obj\Debug\net8.0\vacationapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\obj\Debug\net8.0\vacationapp.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\obj\Debug\net8.0\vacationapp.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\obj\Debug\net8.0\vacationapp.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\obj\Debug\net8.0\vacationapp.dll
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\obj\Debug\net8.0\refint\vacationapp.dll
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\obj\Debug\net8.0\vacationapp.pdb
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\obj\Debug\net8.0\vacationapp.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\obj\Debug\net8.0\ref\vacationapp.dll
+C:\Users\emrylmz\Desktop\ödevler\vacationapp\vacationapp\vacationapp\obj\Debug\net8.0\vacationapp.sourcelink.json

@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\bin\Debug\net8.0\kutuphane.exe
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\bin\Debug\net8.0\kutuphane.deps.json
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\bin\Debug\net8.0\kutuphane.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\bin\Debug\net8.0\kutuphane.dll
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\bin\Debug\net8.0\kutuphane.pdb
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.dll
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\obj\Debug\net8.0\refint\kutuphane.dll
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.pdb
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\obj\Debug\net8.0\kutuphane.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\kutuphaneodevi\kutuphane\kutuphane\obj\Debug\net8.0\ref\kutuphane.dll

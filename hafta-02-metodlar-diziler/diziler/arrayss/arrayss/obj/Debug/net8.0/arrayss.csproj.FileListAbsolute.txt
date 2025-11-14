@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\bin\Debug\net8.0\arrayss.exe
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\bin\Debug\net8.0\arrayss.deps.json
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\bin\Debug\net8.0\arrayss.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\bin\Debug\net8.0\arrayss.dll
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\bin\Debug\net8.0\arrayss.pdb
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\obj\Debug\net8.0\arrayss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\obj\Debug\net8.0\arrayss.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\obj\Debug\net8.0\arrayss.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\obj\Debug\net8.0\arrayss.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\obj\Debug\net8.0\arrayss.dll
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\obj\Debug\net8.0\refint\arrayss.dll
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\obj\Debug\net8.0\arrayss.pdb
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\obj\Debug\net8.0\arrayss.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\arrays\arrayss\arrayss\obj\Debug\net8.0\ref\arrayss.dll

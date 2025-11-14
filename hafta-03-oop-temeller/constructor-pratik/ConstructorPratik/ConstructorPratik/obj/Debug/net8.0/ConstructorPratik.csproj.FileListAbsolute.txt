@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\bin\Debug\net8.0\ConstructorPratik.exe
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\bin\Debug\net8.0\ConstructorPratik.deps.json
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\bin\Debug\net8.0\ConstructorPratik.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\bin\Debug\net8.0\ConstructorPratik.dll
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\bin\Debug\net8.0\ConstructorPratik.pdb
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\obj\Debug\net8.0\ConstructorPratik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\obj\Debug\net8.0\ConstructorPratik.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\obj\Debug\net8.0\ConstructorPratik.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\obj\Debug\net8.0\ConstructorPratik.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\obj\Debug\net8.0\ConstructorPratik.dll
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\obj\Debug\net8.0\refint\ConstructorPratik.dll
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\obj\Debug\net8.0\ConstructorPratik.pdb
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\obj\Debug\net8.0\ConstructorPratik.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\obj\Debug\net8.0\ref\ConstructorPratik.dll
+C:\Users\emrylmz\Desktop\ödevler\ConstructorPratik\ConstructorPratik\ConstructorPratik\obj\Debug\net8.0\ConstructorPratik.sourcelink.json

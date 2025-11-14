@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\bin\Debug\net8.0\pratikLinq.exe
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\bin\Debug\net8.0\pratikLinq.deps.json
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\bin\Debug\net8.0\pratikLinq.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\bin\Debug\net8.0\pratikLinq.dll
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\bin\Debug\net8.0\pratikLinq.pdb
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\obj\Debug\net8.0\pratikLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\obj\Debug\net8.0\pratikLinq.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\obj\Debug\net8.0\pratikLinq.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\obj\Debug\net8.0\pratikLinq.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\obj\Debug\net8.0\pratikLinq.dll
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\obj\Debug\net8.0\refint\pratikLinq.dll
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\obj\Debug\net8.0\pratikLinq.pdb
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\obj\Debug\net8.0\pratikLinq.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\pratikLinq\pratikLinq\pratikLinq\obj\Debug\net8.0\ref\pratikLinq.dll

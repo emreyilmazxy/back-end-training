@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\bin\Debug\net8.0\OkulDeneme.Business.deps.json
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\bin\Debug\net8.0\OkulDeneme.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\bin\Debug\net8.0\OkulDeneme.Business.pdb
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\bin\Debug\net8.0\OkulDeneme.Data.dll
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\bin\Debug\net8.0\OkulDeneme.Data.pdb
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\obj\Debug\net8.0\OkulDeneme.Business.csproj.AssemblyReference.cache
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\obj\Debug\net8.0\OkulDeneme.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\obj\Debug\net8.0\OkulDeneme.Business.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\obj\Debug\net8.0\OkulDeneme.Business.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\obj\Debug\net8.0\OkulDeneme.Business.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\obj\Debug\net8.0\OkulDene.0345EDAE.Up2Date
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\obj\Debug\net8.0\OkulDeneme.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\obj\Debug\net8.0\refint\OkulDeneme.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\obj\Debug\net8.0\OkulDeneme.Business.pdb
+C:\Users\emrylmz\Desktop\ödevler\OkulDeneme\OkulDeneme\OkulDeneme.Business\obj\Debug\net8.0\ref\OkulDeneme.Business.dll

@@ -1,0 +1,18 @@
+﻿@model LibraryManagement.Models.BookFormViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="text-white">Düzenle</h1>
+
+<form asp-action="Edit" method="post">
+    @Html.Partial("_BookForm", Model)
+
+
+</form>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}

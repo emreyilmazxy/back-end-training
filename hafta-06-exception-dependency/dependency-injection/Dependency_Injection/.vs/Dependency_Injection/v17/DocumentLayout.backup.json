@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\DI\\Dependency_Injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7D157-3F0F-4491-BEF5-5DF173E064DC}|Dependency_Injection\\Dependency_Injection.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\di\\dependency_injection\\dependency_injection\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD7D157-3F0F-4491-BEF5-5DF173E064DC}|Dependency_Injection\\Dependency_Injection.csproj|solutionrelative:dependency_injection\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7D157-3F0F-4491-BEF5-5DF173E064DC}|Dependency_Injection\\Dependency_Injection.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\di\\dependency_injection\\dependency_injection\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD7D157-3F0F-4491-BEF5-5DF173E064DC}|Dependency_Injection\\Dependency_Injection.csproj|solutionrelative:dependency_injection\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD7D157-3F0F-4491-BEF5-5DF173E064DC}|Dependency_Injection\\Dependency_Injection.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\di\\dependency_injection\\dependency_injection\\models\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD7D157-3F0F-4491-BEF5-5DF173E064DC}|Dependency_Injection\\Dependency_Injection.csproj|solutionrelative:dependency_injection\\models\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITeacher.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\DI\\Dependency_Injection\\Dependency_Injection\\mODELS\\ITeacher.cs",
+              "RelativeDocumentMoniker": "Dependency_Injection\\mODELS\\ITeacher.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\DI\\Dependency_Injection\\Dependency_Injection\\mODELS\\ITeacher.cs",
+              "RelativeToolTip": "Dependency_Injection\\mODELS\\ITeacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:13:40.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\DI\\Dependency_Injection\\Dependency_Injection\\mODELS\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "Dependency_Injection\\mODELS\\ClassRoom.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\DI\\Dependency_Injection\\Dependency_Injection\\mODELS\\ClassRoom.cs",
+              "RelativeToolTip": "Dependency_Injection\\mODELS\\ClassRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:51:19.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\DI\\Dependency_Injection\\Dependency_Injection\\mODELS\\Teacher.cs",
+              "RelativeDocumentMoniker": "Dependency_Injection\\mODELS\\Teacher.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\DI\\Dependency_Injection\\Dependency_Injection\\mODELS\\Teacher.cs",
+              "RelativeToolTip": "Dependency_Injection\\mODELS\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:48:57.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

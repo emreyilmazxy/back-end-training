@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\obj\Debug\net8.0\4week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\obj\Debug\net8.0\4week.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\obj\Debug\net8.0\4week.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\obj\Debug\net8.0\4week.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\bin\Debug\net8.0\4week.exe
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\bin\Debug\net8.0\4week.deps.json
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\bin\Debug\net8.0\4week.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\bin\Debug\net8.0\4week.dll
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\bin\Debug\net8.0\4week.pdb
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\obj\Debug\net8.0\4week.dll
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\obj\Debug\net8.0\refint\4week.dll
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\obj\Debug\net8.0\4week.pdb
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\obj\Debug\net8.0\4week.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\4week\4week\4week\obj\Debug\net8.0\ref\4week.dll

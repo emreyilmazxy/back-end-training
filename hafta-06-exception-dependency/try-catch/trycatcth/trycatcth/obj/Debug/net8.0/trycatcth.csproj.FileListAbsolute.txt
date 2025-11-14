@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\bin\Debug\net8.0\trycatcth.exe
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\bin\Debug\net8.0\trycatcth.deps.json
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\bin\Debug\net8.0\trycatcth.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\bin\Debug\net8.0\trycatcth.dll
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\bin\Debug\net8.0\trycatcth.pdb
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\obj\Debug\net8.0\trycatcth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\obj\Debug\net8.0\trycatcth.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\obj\Debug\net8.0\trycatcth.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\obj\Debug\net8.0\trycatcth.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\obj\Debug\net8.0\trycatcth.dll
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\obj\Debug\net8.0\refint\trycatcth.dll
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\obj\Debug\net8.0\trycatcth.pdb
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\obj\Debug\net8.0\trycatcth.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\trtcatch\trycatcth\trycatcth\obj\Debug\net8.0\ref\trycatcth.dll

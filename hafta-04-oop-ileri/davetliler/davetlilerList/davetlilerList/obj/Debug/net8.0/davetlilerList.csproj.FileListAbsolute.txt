@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\obj\Debug\net8.0\davetlilerList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\obj\Debug\net8.0\davetlilerList.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\obj\Debug\net8.0\davetlilerList.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\obj\Debug\net8.0\davetlilerList.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\bin\Debug\net8.0\davetlilerList.exe
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\bin\Debug\net8.0\davetlilerList.deps.json
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\bin\Debug\net8.0\davetlilerList.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\bin\Debug\net8.0\davetlilerList.dll
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\bin\Debug\net8.0\davetlilerList.pdb
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\obj\Debug\net8.0\davetlilerList.dll
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\obj\Debug\net8.0\refint\davetlilerList.dll
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\obj\Debug\net8.0\davetlilerList.pdb
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\obj\Debug\net8.0\davetlilerList.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\obj\Debug\net8.0\ref\davetlilerList.dll
+C:\Users\emrylmz\Desktop\ödevler\Davetliler\davetlilerList\davetlilerList\obj\Debug\net8.0\davetlilerList.sourcelink.json

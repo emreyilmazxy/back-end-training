@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+<div class="d-flex justify-content-center align-items-start min-vh-75 pt-5">
+    <div class="p-5 rounded-4 shadow" style="background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); text-align: center;">
+        <h1 class="display-5 fw-bold text-white mb-4">Kütüphane Yönetim Uygulaması</h1>
+        <div class="d-flex justify-content-center gap-3">
+            <a asp-controller="Book" asp-action="List" class="btn btn-outline-light btn-lg px-4">📚 Kitaplar</a>
+            <a asp-controller="Author" asp-action="List" class="btn btn-outline-light btn-lg px-4">🖋️ Yazarlar</a>
+            <a asp-controller="Home" asp-action="Extra" class="btn btn-outline-light btn-lg px-4">✨ Ekstra</a>
+        </div>
+    </div>
+</div>

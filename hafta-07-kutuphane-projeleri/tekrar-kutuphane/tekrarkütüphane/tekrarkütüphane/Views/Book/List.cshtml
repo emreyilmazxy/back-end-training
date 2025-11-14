@@ -1,0 +1,39 @@
+﻿@model List<BookListViewModel>
+@{
+    ViewData["Title"] = "Kitap Listesi";
+}
+
+<div class="container py-5">
+    <div class="p-4 rounded-4 shadow-lg" style="background: rgba(0, 0, 0, 0.6); backdrop-filter: blur(6px); border: 1px solid rgba(255,255,255,0.1); color: white;">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h2 class="fw-bold">📚 Kitap Listesi</h2>
+            <a asp-action="Create" class="btn btn-outline-light">+ Kitap Ekle</a>
+        </div>
+
+        <table class="table table-dark table-hover table-bordered align-middle rounded-3 overflow-hidden">
+            <thead class="table-light text-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Başlık</th>
+                    <th>Tür</th>
+                    <th>İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Model)
+                {
+                    <tr>
+                        <td>@book.Id</td>
+                        <td>@book.Title</td>
+                        <td>@book.Genre</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@book.Id" class="btn btn-sm btn-warning me-1">Düzenle</a>
+                            <a asp-action="Delete" asp-route-id="@book.Id" class="btn btn-sm btn-danger me-1">Sil</a>
+                            <a asp-action="Details" asp-route-id="@book.Id" class="btn btn-sm btn-secondary">Detay</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

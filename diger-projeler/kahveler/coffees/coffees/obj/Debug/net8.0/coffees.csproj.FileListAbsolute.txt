@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\bin\Debug\net8.0\coffees.exe
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\bin\Debug\net8.0\coffees.deps.json
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\bin\Debug\net8.0\coffees.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\bin\Debug\net8.0\coffees.dll
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\bin\Debug\net8.0\coffees.pdb
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\obj\Debug\net8.0\coffees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\obj\Debug\net8.0\coffees.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\obj\Debug\net8.0\coffees.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\obj\Debug\net8.0\coffees.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\obj\Debug\net8.0\coffees.dll
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\obj\Debug\net8.0\refint\coffees.dll
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\obj\Debug\net8.0\coffees.pdb
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\obj\Debug\net8.0\coffees.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\obj\Debug\net8.0\ref\coffees.dll
+C:\Users\emrylmz\Desktop\ödevler\coffees\coffees\coffees\obj\Debug\net8.0\coffees.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\bin\Debug\net8.0\usersgame.exe
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\bin\Debug\net8.0\usersgame.deps.json
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\bin\Debug\net8.0\usersgame.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\bin\Debug\net8.0\usersgame.dll
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\bin\Debug\net8.0\usersgame.pdb
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\obj\Debug\net8.0\usersgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\obj\Debug\net8.0\usersgame.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\obj\Debug\net8.0\usersgame.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\obj\Debug\net8.0\usersgame.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\obj\Debug\net8.0\usersgame.dll
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\obj\Debug\net8.0\refint\usersgame.dll
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\obj\Debug\net8.0\usersgame.pdb
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\obj\Debug\net8.0\usersgame.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\obj\Debug\net8.0\ref\usersgame.dll
+C:\Users\emrylmz\Desktop\ödevler\usersgames\usersgame\usersgame\obj\Debug\net8.0\usersgame.sourcelink.json

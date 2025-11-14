@@ -1,0 +1,41 @@
+﻿@model ExtraPageViewModel
+
+@{
+    ViewData["Title"] = "Yazar - Kitap Filtreleme";
+}
+
+<div class="container py-5">
+
+    <div class="mb-4">
+        <form method="get" asp-action="Extra">
+            <label class="form-label text-white">Yazar Seç</label>
+            <select name="authorId" asp-for="SelectedAuthorId" asp-items="@(new SelectList(Model.Authors, "Id", "Name"))" class="form-select w-50" onchange="this.form.submit()">
+                <option value="">Tüm Yazarlar</option>
+            </select>
+        </form>
+    </div>
+
+    @if (Model.Books != null && Model.Books.Any())
+    {
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            @foreach (var book in Model.Books)
+            {
+                <div class="col">
+                    <div class="card shadow-lg h-100" style="background-color: rgba(255,255,255,0.1); backdrop-filter: blur(6px); color: white;">
+                        <div class="card-body">
+                            <h5 class="card-title">@book.Title</h5>
+                            <p class="card-text"><strong>Tür:</strong> @book.Genre</p>
+                            <p class="card-text"><strong>Yayın Tarihi:</strong> @book.PublishDate.ToShortDateString()</p>
+                            <p class="card-text"><strong>Stok:</strong> @book.CopiesAvailable adet</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning mt-4">Seçilen yazara ait kitap bulunamadı.</div>
+    }
+
+</div>

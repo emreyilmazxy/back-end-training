@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Migrations\\20250821120708_gg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OkulDeneme.Data\\Migrations\\20250821120708_gg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.data\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|solutionrelative:okuldeneme.data\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250821120708_gg.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Migrations\\20250821120708_gg.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Data\\Migrations\\20250821120708_gg.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Migrations\\20250821120708_gg.cs",
+              "RelativeToolTip": "OkulDeneme.Data\\Migrations\\20250821120708_gg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:07:08.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Entities\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Data\\Entities\\StudentEntity.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Entities\\StudentEntity.cs",
+              "RelativeToolTip": "OkulDeneme.Data\\Entities\\StudentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:02:25.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

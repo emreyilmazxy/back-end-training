@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\bin\Debug\net9.0\konrolyapıları.exe
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\bin\Debug\net9.0\konrolyapıları.deps.json
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\bin\Debug\net9.0\konrolyapıları.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\bin\Debug\net9.0\konrolyapıları.dll
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\bin\Debug\net9.0\konrolyapıları.pdb
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\obj\Debug\net9.0\konrolyapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\obj\Debug\net9.0\konrolyapıları.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\obj\Debug\net9.0\konrolyapıları.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\obj\Debug\net9.0\konrolyapıları.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\obj\Debug\net9.0\konrolyapıları.dll
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\obj\Debug\net9.0\refint\konrolyapıları.dll
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\obj\Debug\net9.0\konrolyapıları.pdb
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\obj\Debug\net9.0\konrolyapıları.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\kontrol yapıları\konrolyapıları\konrolyapıları\obj\Debug\net9.0\ref\konrolyapıları.dll

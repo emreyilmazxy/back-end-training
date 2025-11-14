@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\obj\Debug\net9.0\ifswitcihlermanav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\obj\Debug\net9.0\ifswitcihlermanav.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\obj\Debug\net9.0\ifswitcihlermanav.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\obj\Debug\net9.0\ifswitcihlermanav.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\bin\Debug\net9.0\ifswitcihlermanav.exe
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\bin\Debug\net9.0\ifswitcihlermanav.deps.json
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\bin\Debug\net9.0\ifswitcihlermanav.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\bin\Debug\net9.0\ifswitcihlermanav.dll
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\bin\Debug\net9.0\ifswitcihlermanav.pdb
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\obj\Debug\net9.0\ifswitcihlermanav.dll
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\obj\Debug\net9.0\refint\ifswitcihlermanav.dll
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\obj\Debug\net9.0\ifswitcihlermanav.pdb
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\obj\Debug\net9.0\ifswitcihlermanav.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\obj\Debug\net9.0\ref\ifswitcihlermanav.dll
+C:\Users\emrylmz\Desktop\ödevler\ifmanav\ifswitcihlermanav\ifswitcihlermanav\obj\Debug\net9.0\ifswitcihlermanav.sourcelink.json

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\relationtable\\relationtable\\relationtable\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|solutionrelative:relationtable\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\relationtable\\relationtable\\relationtable\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|solutionrelative:relationtable\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\relationtable\\relationtable\\relationtable\\models\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|solutionrelative:relationtable\\models\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\relationtable\\relationtable\\relationtable\\models\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|solutionrelative:relationtable\\models\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\relationtable\\relationtable\\relationtable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|solutionrelative:relationtable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\relationtable\\relationtable\\relationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153C8BAB-8D55-4C0C-9B81-55F4C79E309D}|RelationTable\\RelationTable.csproj|solutionrelative:relationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "RelationTable\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "RelationTable\\Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:26:10.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\Models\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "RelationTable\\Models\\StudentEntity.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\Models\\StudentEntity.cs",
+              "RelativeToolTip": "RelationTable\\Models\\StudentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:52:39.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\Models\\CourseEntity.cs",
+              "RelativeDocumentMoniker": "RelationTable\\Models\\CourseEntity.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\Models\\CourseEntity.cs",
+              "RelativeToolTip": "RelationTable\\Models\\CourseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:52:23.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\Program.cs",
+              "RelativeDocumentMoniker": "RelationTable\\Program.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\Program.cs",
+              "RelativeToolTip": "RelationTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:47:14.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\appsettings.json",
+              "RelativeDocumentMoniker": "RelationTable\\appsettings.json",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\appsettings.json",
+              "RelativeToolTip": "RelationTable\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T14:43:38.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RelationTable\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\RelationTable\\RelationTable\\RelationTable\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RelationTable\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:39:09.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

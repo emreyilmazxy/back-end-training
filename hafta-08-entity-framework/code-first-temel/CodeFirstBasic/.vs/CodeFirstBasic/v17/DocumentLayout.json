@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F82681-3C6E-4EDB-A060-0A16BB6D5628}|CodeFirstBasic\\CodeFirstBasic.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\codefirstbasic\\codefirstbasic\\codefirstbasic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5F82681-3C6E-4EDB-A060-0A16BB6D5628}|CodeFirstBasic\\CodeFirstBasic.csproj|solutionrelative:codefirstbasic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F82681-3C6E-4EDB-A060-0A16BB6D5628}|CodeFirstBasic\\CodeFirstBasic.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\codefirstbasic\\codefirstbasic\\codefirstbasic\\context\\patikafirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F82681-3C6E-4EDB-A060-0A16BB6D5628}|CodeFirstBasic\\CodeFirstBasic.csproj|solutionrelative:codefirstbasic\\context\\patikafirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F82681-3C6E-4EDB-A060-0A16BB6D5628}|CodeFirstBasic\\CodeFirstBasic.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\codefirstbasic\\codefirstbasic\\codefirstbasic\\models\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F82681-3C6E-4EDB-A060-0A16BB6D5628}|CodeFirstBasic\\CodeFirstBasic.csproj|solutionrelative:codefirstbasic\\models\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F82681-3C6E-4EDB-A060-0A16BB6D5628}|CodeFirstBasic\\CodeFirstBasic.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\codefirstbasic\\codefirstbasic\\codefirstbasic\\migrations\\20250716142334_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F82681-3C6E-4EDB-A060-0A16BB6D5628}|CodeFirstBasic\\CodeFirstBasic.csproj|solutionrelative:codefirstbasic\\migrations\\20250716142334_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F82681-3C6E-4EDB-A060-0A16BB6D5628}|CodeFirstBasic\\CodeFirstBasic.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\codefirstbasic\\codefirstbasic\\codefirstbasic\\models\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F82681-3C6E-4EDB-A060-0A16BB6D5628}|CodeFirstBasic\\CodeFirstBasic.csproj|solutionrelative:codefirstbasic\\models\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\CodeFirstBasic\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstBasic\\appsettings.json",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\CodeFirstBasic\\appsettings.json",
+              "RelativeToolTip": "CodeFirstBasic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T14:36:46.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250716142334_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\CodeFirstBasic\\Migrations\\20250716142334_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CodeFirstBasic\\Migrations\\20250716142334_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\CodeFirstBasic\\Migrations\\20250716142334_InitialCreate.cs",
+              "RelativeToolTip": "CodeFirstBasic\\Migrations\\20250716142334_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:23:34.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameEntity.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\CodeFirstBasic\\Models\\GameEntity.cs",
+              "RelativeDocumentMoniker": "CodeFirstBasic\\Models\\GameEntity.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\CodeFirstBasic\\Models\\GameEntity.cs",
+              "RelativeToolTip": "CodeFirstBasic\\Models\\GameEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:58:17.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieEntity.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\CodeFirstBasic\\Models\\MovieEntity.cs",
+              "RelativeDocumentMoniker": "CodeFirstBasic\\Models\\MovieEntity.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\CodeFirstBasic\\Models\\MovieEntity.cs",
+              "RelativeToolTip": "CodeFirstBasic\\Models\\MovieEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:58:03.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatikaFirstDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\CodeFirstBasic\\Context\\PatikaFirstDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstBasic\\Context\\PatikaFirstDbContext.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\CodeFirstBasic\\CodeFirstBasic\\CodeFirstBasic\\Context\\PatikaFirstDbContext.cs",
+              "RelativeToolTip": "CodeFirstBasic\\Context\\PatikaFirstDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:54:27.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

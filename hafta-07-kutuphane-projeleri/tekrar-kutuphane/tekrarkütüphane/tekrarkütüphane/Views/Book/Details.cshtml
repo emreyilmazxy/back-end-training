@@ -1,0 +1,32 @@
+﻿@model BookDetailsViewModel
+
+@{
+    ViewData["Title"] = "Kitap Detayı";
+}
+
+<div class="container py-5">
+    <div class="p-4 rounded-4 shadow-lg text-white" style="background: rgba(0,0,0,0.5); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1);">
+        <h2 class="mb-4">📘 Kitap Detayı</h2>
+
+        <dl class="row">
+            <dt class="col-sm-3">Kitap Adı</dt>
+            <dd class="col-sm-9">@Model.Title</dd>
+
+            <dt class="col-sm-3">Tür</dt>
+            <dd class="col-sm-9">@Model.Genre</dd>
+
+            <dt class="col-sm-3">Yayın Tarihi</dt>
+            <dd class="col-sm-9">@Model.PublishDate.ToString("dd MMMM yyyy")</dd>
+
+            <dt class="col-sm-3">Yazar</dt>
+            <dd class="col-sm-9">@Model.Author?.FirstName @Model.Author?.LastName</dd>
+
+            <dt class="col-sm-3">Mevcut Kopya</dt>
+            <dd class="col-sm-9">@Model.CopiesAvailable</dd>
+        </dl>
+
+        <div class="mt-4">
+            <a asp-action="List" class="btn btn-secondary">↩️ Geri Dön</a>
+        </div>
+    </div>
+</div>

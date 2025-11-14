@@ -1,0 +1,16 @@
+﻿@model LibraryManagement.Models.Author
+
+<h2 class="text-danger mb-4">Yazarı Sil</h2>
+
+<div class="delete-confirm-box">
+    <p>
+        <strong>@Model.FirstName @Model.LastName</strong> adlı yazarı silmek istediğinize emin misiniz?
+    </p>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+
+        <button type="submit" class="btn btn-danger me-2">Evet, Sil</button>
+        <a asp-action="List" class="btn btn-secondary">Vazgeç</a>
+    </form>
+</div>

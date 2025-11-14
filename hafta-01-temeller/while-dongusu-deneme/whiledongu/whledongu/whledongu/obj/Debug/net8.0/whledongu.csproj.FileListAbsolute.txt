@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\obj\Debug\net8.0\whledongu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\obj\Debug\net8.0\whledongu.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\obj\Debug\net8.0\whledongu.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\obj\Debug\net8.0\whledongu.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\bin\Debug\net8.0\whledongu.exe
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\bin\Debug\net8.0\whledongu.deps.json
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\bin\Debug\net8.0\whledongu.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\bin\Debug\net8.0\whledongu.dll
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\bin\Debug\net8.0\whledongu.pdb
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\obj\Debug\net8.0\whledongu.dll
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\obj\Debug\net8.0\refint\whledongu.dll
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\obj\Debug\net8.0\whledongu.pdb
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\obj\Debug\net8.0\whledongu.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\obj\Debug\net8.0\ref\whledongu.dll
+C:\Users\emrylmz\Desktop\ödevler\deneme\whiledongu\whledongu\whledongu\obj\Debug\net8.0\whledongu.sourcelink.json

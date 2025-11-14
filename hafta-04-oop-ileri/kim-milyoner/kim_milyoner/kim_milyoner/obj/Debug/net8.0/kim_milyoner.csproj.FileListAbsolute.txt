@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\bin\Debug\net8.0\kim_milyoner.exe
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\bin\Debug\net8.0\kim_milyoner.deps.json
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\bin\Debug\net8.0\kim_milyoner.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\bin\Debug\net8.0\kim_milyoner.dll
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\bin\Debug\net8.0\kim_milyoner.pdb
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\obj\Debug\net8.0\kim_milyoner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\obj\Debug\net8.0\kim_milyoner.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\obj\Debug\net8.0\kim_milyoner.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\obj\Debug\net8.0\kim_milyoner.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\obj\Debug\net8.0\kim_milyoner.sourcelink.json
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\obj\Debug\net8.0\kim_milyoner.dll
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\obj\Debug\net8.0\refint\kim_milyoner.dll
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\obj\Debug\net8.0\kim_milyoner.pdb
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\obj\Debug\net8.0\kim_milyoner.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\kimMilyoner\kim_milyoner\kim_milyoner\obj\Debug\net8.0\ref\kim_milyoner.dll

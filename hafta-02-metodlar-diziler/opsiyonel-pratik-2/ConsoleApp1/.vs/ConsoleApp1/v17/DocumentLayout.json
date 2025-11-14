@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\\u00F6ylesine\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86167A46-0074-46F0-BA0A-B7A7DAE48E66}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\\u00F6ylesine\\consoleapp1\\consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86167A46-0074-46F0-BA0A-B7A7DAE48E66}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86167A46-0074-46F0-BA0A-B7A7DAE48E66}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\\u00F6ylesine\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86167A46-0074-46F0-BA0A-B7A7DAE48E66}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\\u00F6ylesine\\ConsoleApp1\\ConsoleApp1\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class1.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\\u00F6ylesine\\ConsoleApp1\\ConsoleApp1\\Class1.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Class1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:59:46.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\\u00F6ylesine\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\\u00F6ylesine\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:35:36.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

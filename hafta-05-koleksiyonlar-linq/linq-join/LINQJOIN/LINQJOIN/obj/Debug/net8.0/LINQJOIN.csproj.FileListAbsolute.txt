@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\bin\Debug\net8.0\LINQJOIN.exe
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\bin\Debug\net8.0\LINQJOIN.deps.json
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\bin\Debug\net8.0\LINQJOIN.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\bin\Debug\net8.0\LINQJOIN.dll
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\bin\Debug\net8.0\LINQJOIN.pdb
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\obj\Debug\net8.0\LINQJOIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\obj\Debug\net8.0\LINQJOIN.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\obj\Debug\net8.0\LINQJOIN.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\obj\Debug\net8.0\LINQJOIN.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\obj\Debug\net8.0\LINQJOIN.dll
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\obj\Debug\net8.0\refint\LINQJOIN.dll
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\obj\Debug\net8.0\LINQJOIN.pdb
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\obj\Debug\net8.0\LINQJOIN.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\LINQJOIN\LINQJOIN\LINQJOIN\obj\Debug\net8.0\ref\LINQJOIN.dll

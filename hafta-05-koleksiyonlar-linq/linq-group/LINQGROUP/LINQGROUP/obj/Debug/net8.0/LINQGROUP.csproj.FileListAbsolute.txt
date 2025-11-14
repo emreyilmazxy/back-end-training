@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\bin\Debug\net8.0\LINQGROUP.exe
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\bin\Debug\net8.0\LINQGROUP.deps.json
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\bin\Debug\net8.0\LINQGROUP.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\bin\Debug\net8.0\LINQGROUP.dll
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\bin\Debug\net8.0\LINQGROUP.pdb
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\obj\Debug\net8.0\LINQGROUP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\obj\Debug\net8.0\LINQGROUP.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\obj\Debug\net8.0\LINQGROUP.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\obj\Debug\net8.0\LINQGROUP.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\obj\Debug\net8.0\LINQGROUP.dll
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\obj\Debug\net8.0\refint\LINQGROUP.dll
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\obj\Debug\net8.0\LINQGROUP.pdb
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\obj\Debug\net8.0\LINQGROUP.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\LINQGROUP\LINQGROUP\LINQGROUP\obj\Debug\net8.0\ref\LINQGROUP.dll

@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.exe
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.deps.json
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.dll
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.pdb
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.dll
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\obj\Debug\net8.0\refint\Patikafy.dll
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.pdb
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\obj\Debug\net8.0\ref\Patikafy.dll
+C:\Users\emrylmz\Desktop\ödevler\Patikafy\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.sourcelink.json

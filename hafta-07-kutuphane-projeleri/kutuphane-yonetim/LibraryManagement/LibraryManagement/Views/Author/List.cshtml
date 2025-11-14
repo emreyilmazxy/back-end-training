@@ -1,0 +1,36 @@
+﻿@model List<LibraryManagement.Models.AuthorListViewModel>
+
+
+<h1 class="mb-4 text-center">📚 Yazar Listesi</h1>
+
+<div class="text-center mb-3">
+    <a href="@Url.Action("Create", "Author")" class="btn btn-success">+ Yazar Ekle</a>
+</div>
+
+<div class="transparent-table-wrapper ">
+    <table class="table table-bordered text-center table-transparent mb-0">
+        <thead>
+            <tr>
+                <th>Yazar ID</th>
+                <th>yazar Adı</th>
+                
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var author in Model)
+            {
+                <tr>
+                    <td>@author.Id</td>
+                    <td>@author.FullName</td>
+                    
+                    <td>
+                        <a href="@Url.Action("Details", "Author", new { id = author.Id })" class="btn btn-info btn-sm me-1">Detay</a>
+                        <a href="@Url.Action("Edit", "Author", new { id = author.Id })" class="btn btn-primary btn-sm me-1">Düzenle</a>
+                        <a href="@Url.Action("Delete", "Author", new { id = author.Id })" class="btn btn-danger btn-sm">Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LINQGROUP\\LINQGROUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF0FE72-E7B7-48F7-B4BB-DCDFAE5D7EB9}|LINQGROUP\\LINQGROUP.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\linqgroup\\linqgroup\\linqgroup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF0FE72-E7B7-48F7-B4BB-DCDFAE5D7EB9}|LINQGROUP\\LINQGROUP.csproj|solutionrelative:linqgroup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF0FE72-E7B7-48F7-B4BB-DCDFAE5D7EB9}|LINQGROUP\\LINQGROUP.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\linqgroup\\linqgroup\\linqgroup\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF0FE72-E7B7-48F7-B4BB-DCDFAE5D7EB9}|LINQGROUP\\LINQGROUP.csproj|solutionrelative:linqgroup\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF0FE72-E7B7-48F7-B4BB-DCDFAE5D7EB9}|LINQGROUP\\LINQGROUP.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\linqgroup\\linqgroup\\linqgroup\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF0FE72-E7B7-48F7-B4BB-DCDFAE5D7EB9}|LINQGROUP\\LINQGROUP.csproj|solutionrelative:linqgroup\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LINQGROUP\\LINQGROUP\\LINQGROUP\\Classes.cs",
+              "RelativeDocumentMoniker": "LINQGROUP\\Classes.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LINQGROUP\\LINQGROUP\\LINQGROUP\\Classes.cs",
+              "RelativeToolTip": "LINQGROUP\\Classes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:52:51.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LINQGROUP\\LINQGROUP\\LINQGROUP\\Student.cs",
+              "RelativeDocumentMoniker": "LINQGROUP\\Student.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LINQGROUP\\LINQGROUP\\LINQGROUP\\Student.cs",
+              "RelativeToolTip": "LINQGROUP\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:52:21.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LINQGROUP\\LINQGROUP\\LINQGROUP\\Program.cs",
+              "RelativeDocumentMoniker": "LINQGROUP\\Program.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LINQGROUP\\LINQGROUP\\LINQGROUP\\Program.cs",
+              "RelativeToolTip": "LINQGROUP\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:50:45.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

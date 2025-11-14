@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\views\\book\\_bookform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\book\\_bookform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\models\\bookformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\bookformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\models\\mockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\mockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\librarymanagement\\librarymanagement\\librarymanagement\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BB51B5F-61BE-4EB1-AC4B-F5419E470A58}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T22:03:42.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\BookFormViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\BookFormViewModel.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\BookFormViewModel.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\BookFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:24:41.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MockData.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\MockData.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\MockData.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\MockData.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\MockData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:19:59.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwFIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:16:29.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T18:15:43.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T17:04:52.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T17:04:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T16:46:31.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_BookForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Book\\_BookForm.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Book\\_BookForm.cshtml",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Book\\_BookForm.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Book\\_BookForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T15:36:22.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowHkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:17:21.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Author\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Author\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Author\\Delete.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Author\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T13:59:16.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\5weekFinish\\5weekClosed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBDD29E-B84C-46FB-B48D-CF21EA660CA0}|5weekClosed\\5weekClosed.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\5weekfinish\\5weekclosed\\5weekclosed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBDD29E-B84C-46FB-B48D-CF21EA660CA0}|5weekClosed\\5weekClosed.csproj|solutionrelative:5weekclosed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBDD29E-B84C-46FB-B48D-CF21EA660CA0}|5weekClosed\\5weekClosed.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\5weekfinish\\5weekclosed\\5weekclosed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBDD29E-B84C-46FB-B48D-CF21EA660CA0}|5weekClosed\\5weekClosed.csproj|solutionrelative:5weekclosed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\5weekFinish\\5weekClosed\\5weekClosed\\Car.cs",
+              "RelativeDocumentMoniker": "5weekClosed\\Car.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\5weekFinish\\5weekClosed\\5weekClosed\\Car.cs",
+              "RelativeToolTip": "5weekClosed\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:56:42.773Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\5weekFinish\\5weekClosed\\5weekClosed\\Program.cs",
+              "RelativeDocumentMoniker": "5weekClosed\\Program.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\5weekFinish\\5weekClosed\\5weekClosed\\Program.cs*",
+              "RelativeToolTip": "5weekClosed\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:55:32.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA97339-6511-4E27-9E93-C4DB125F20DD}|depencdeyycanli\\depencdeyycanli.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA97339-6511-4E27-9E93-C4DB125F20DD}|depencdeyycanli\\depencdeyycanli.csproj|solutionrelative:depencdeyycanli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA97339-6511-4E27-9E93-C4DB125F20DD}|depencdeyycanli\\depencdeyycanli.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA97339-6511-4E27-9E93-C4DB125F20DD}|depencdeyycanli\\depencdeyycanli.csproj|solutionrelative:depencdeyycanli\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA97339-6511-4E27-9E93-C4DB125F20DD}|depencdeyycanli\\depencdeyycanli.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\managers\\siramatik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA97339-6511-4E27-9E93-C4DB125F20DD}|depencdeyycanli\\depencdeyycanli.csproj|solutionrelative:depencdeyycanli\\managers\\siramatik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA97339-6511-4E27-9E93-C4DB125F20DD}|depencdeyycanli\\depencdeyycanli.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\services\\isiramatik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA97339-6511-4E27-9E93-C4DB125F20DD}|depencdeyycanli\\depencdeyycanli.csproj|solutionrelative:depencdeyycanli\\services\\isiramatik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA97339-6511-4E27-9E93-C4DB125F20DD}|depencdeyycanli\\depencdeyycanli.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\depencdeyycanli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BA97339-6511-4E27-9E93-C4DB125F20DD}|depencdeyycanli\\depencdeyycanli.csproj|solutionrelative:depencdeyycanli\\depencdeyycanli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\Program.cs",
+              "RelativeDocumentMoniker": "depencdeyycanli\\Program.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\Program.cs*",
+              "RelativeToolTip": "depencdeyycanli\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:12:09.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Siramatik.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\Managers\\Siramatik.cs",
+              "RelativeDocumentMoniker": "depencdeyycanli\\Managers\\Siramatik.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\Managers\\Siramatik.cs*",
+              "RelativeToolTip": "depencdeyycanli\\Managers\\Siramatik.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:51:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISiramatik.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\Services\\ISiramatik.cs",
+              "RelativeDocumentMoniker": "depencdeyycanli\\Services\\ISiramatik.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\Services\\ISiramatik.cs*",
+              "RelativeToolTip": "depencdeyycanli\\Services\\ISiramatik.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:49:16.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "depencdeyycanli",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\depencdeyycanli.csproj",
+              "RelativeDocumentMoniker": "depencdeyycanli\\depencdeyycanli.csproj",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\depencdeyycanli.csproj*",
+              "RelativeToolTip": "depencdeyycanli\\depencdeyycanli.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T16:48:40.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "depencdeyycanli\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\dependency\\depencdeyycanli\\depencdeyycanli\\Controllers\\ValuesController.cs*",
+              "RelativeToolTip": "depencdeyycanli\\Controllers\\ValuesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:47:27.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

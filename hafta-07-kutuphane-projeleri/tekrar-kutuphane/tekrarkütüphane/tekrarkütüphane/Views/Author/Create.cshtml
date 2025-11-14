@@ -1,0 +1,19 @@
+﻿@model AuthorFormViewModel
+
+@{
+    ViewData["Title"] = "Yeni Yazar Ekle";
+}
+
+<div class="container py-5">
+    <div class="p-4 rounded-4 shadow-lg" style="background: rgba(0,0,0,0.5); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); color: white;">
+        <h2 class="mb-4">➕ Yeni Yazar Ekle</h2>
+
+        <form asp-action="Create" method="post">
+            @Html.Partial("_AuthorFormView")
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

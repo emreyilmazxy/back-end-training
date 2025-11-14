@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\bin\Debug\net8.0\whilevsdo.exe
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\bin\Debug\net8.0\whilevsdo.deps.json
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\bin\Debug\net8.0\whilevsdo.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\bin\Debug\net8.0\whilevsdo.dll
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\bin\Debug\net8.0\whilevsdo.pdb
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\obj\Debug\net8.0\whilevsdo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\obj\Debug\net8.0\whilevsdo.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\obj\Debug\net8.0\whilevsdo.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\obj\Debug\net8.0\whilevsdo.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\obj\Debug\net8.0\whilevsdo.sourcelink.json
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\obj\Debug\net8.0\whilevsdo.dll
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\obj\Debug\net8.0\refint\whilevsdo.dll
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\obj\Debug\net8.0\whilevsdo.pdb
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\obj\Debug\net8.0\whilevsdo.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\whilevsDo\whilevsdo\whilevsdo\obj\Debug\net8.0\ref\whilevsdo.dll

@@ -1,0 +1,17 @@
+﻿@model BookFormViewModel
+
+@{
+    ViewData["Title"] = "Kitap Düzenle";
+}
+
+<div class="container py-5">
+    <div class="p-4 rounded-4 shadow-lg" style="background: rgba(0, 0, 0, 0.6); backdrop-filter: blur(6px); border: 1px solid rgba(255,255,255,0.1); color: white;">
+        <h2 class="fw-bold mb-4">📘 Kitap Düzenle</h2>
+
+        <form asp-action="Edit" method="post">
+            @Html.Partial("_BookFormPartial", Model)
+
+           
+        </form>
+    </div>
+</div>

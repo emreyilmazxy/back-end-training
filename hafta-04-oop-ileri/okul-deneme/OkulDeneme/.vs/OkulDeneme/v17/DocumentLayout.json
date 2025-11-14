@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AFC81-B5DD-4EA5-9E8C-D4F0F99D079B}|OkulDeneme.Business\\OkulDeneme.Business.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.business\\operetions\\course\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AFC81-B5DD-4EA5-9E8C-D4F0F99D079B}|OkulDeneme.Business\\OkulDeneme.Business.csproj|solutionrelative:okuldeneme.business\\operetions\\course\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AFC81-B5DD-4EA5-9E8C-D4F0F99D079B}|OkulDeneme.Business\\OkulDeneme.Business.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.business\\operetions\\course\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AFC81-B5DD-4EA5-9E8C-D4F0F99D079B}|OkulDeneme.Business\\OkulDeneme.Business.csproj|solutionrelative:okuldeneme.business\\operetions\\course\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AFC81-B5DD-4EA5-9E8C-D4F0F99D079B}|OkulDeneme.Business\\OkulDeneme.Business.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.business\\operetions\\course\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AFC81-B5DD-4EA5-9E8C-D4F0F99D079B}|OkulDeneme.Business\\OkulDeneme.Business.csproj|solutionrelative:okuldeneme.business\\operetions\\course\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AFC81-B5DD-4EA5-9E8C-D4F0F99D079B}|OkulDeneme.Business\\OkulDeneme.Business.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.business\\okuldeneme.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A1AFC81-B5DD-4EA5-9E8C-D4F0F99D079B}|OkulDeneme.Business\\OkulDeneme.Business.csproj|solutionrelative:okuldeneme.business\\okuldeneme.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D44E53-AE1F-4C56-8F8E-768D0FDB6C46}|OkulDeneme.WebApi\\OkulDeneme.WebApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.webapi\\controllers\\v1\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D44E53-AE1F-4C56-8F8E-768D0FDB6C46}|OkulDeneme.WebApi\\OkulDeneme.WebApi.csproj|solutionrelative:okuldeneme.webapi\\controllers\\v1\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D44E53-AE1F-4C56-8F8E-768D0FDB6C46}|OkulDeneme.WebApi\\OkulDeneme.WebApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.webapi\\models\\courserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D44E53-AE1F-4C56-8F8E-768D0FDB6C46}|OkulDeneme.WebApi\\OkulDeneme.WebApi.csproj|solutionrelative:okuldeneme.webapi\\models\\courserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.data\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|solutionrelative:okuldeneme.data\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D44E53-AE1F-4C56-8F8E-768D0FDB6C46}|OkulDeneme.WebApi\\OkulDeneme.WebApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.webapi\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D44E53-AE1F-4C56-8F8E-768D0FDB6C46}|OkulDeneme.WebApi\\OkulDeneme.WebApi.csproj|solutionrelative:okuldeneme.webapi\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|solutionrelative:okuldeneme.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|solutionrelative:okuldeneme.data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|solutionrelative:okuldeneme.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|solutionrelative:okuldeneme.data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\okuldeneme\\okuldeneme\\okuldeneme.data\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6394A746-D2D0-49B5-8499-DC3C24063D9F}|OkulDeneme.Data\\OkulDeneme.Data.csproj|solutionrelative:okuldeneme.data\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Business\\Operetions\\Course\\CourseService.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Business\\Operetions\\Course\\CourseService.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Business\\Operetions\\Course\\CourseService.cs",
+              "RelativeToolTip": "OkulDeneme.Business\\Operetions\\Course\\CourseService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:10:08.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Business\\Operetions\\Course\\ICourseService.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Business\\Operetions\\Course\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Business\\Operetions\\Course\\ICourseService.cs",
+              "RelativeToolTip": "OkulDeneme.Business\\Operetions\\Course\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:07:34.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Business\\Operetions\\Course\\Dtos\\CourseDto.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Business\\Operetions\\Course\\Dtos\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Business\\Operetions\\Course\\Dtos\\CourseDto.cs",
+              "RelativeToolTip": "OkulDeneme.Business\\Operetions\\Course\\Dtos\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:05:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OkulDeneme.Business",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Business\\OkulDeneme.Business.csproj",
+              "RelativeDocumentMoniker": "OkulDeneme.Business\\OkulDeneme.Business.csproj",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Business\\OkulDeneme.Business.csproj",
+              "RelativeToolTip": "OkulDeneme.Business\\OkulDeneme.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T14:05:11.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Entities\\CourseEntity.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Data\\Entities\\CourseEntity.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Entities\\CourseEntity.cs",
+              "RelativeToolTip": "OkulDeneme.Data\\Entities\\CourseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:04:39.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.WebApi\\Models\\CourseRequestDto.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.WebApi\\Models\\CourseRequestDto.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.WebApi\\Models\\CourseRequestDto.cs",
+              "RelativeToolTip": "OkulDeneme.WebApi\\Models\\CourseRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:04:29.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.WebApi\\Controllers\\v1\\CoursesController.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.WebApi\\Controllers\\v1\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.WebApi\\Controllers\\v1\\CoursesController.cs",
+              "RelativeToolTip": "OkulDeneme.WebApi\\Controllers\\v1\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:01:17.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.WebApi\\Controllers\\v1\\AuthController.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.WebApi\\Controllers\\v1\\AuthController.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.WebApi\\Controllers\\v1\\AuthController.cs",
+              "RelativeToolTip": "OkulDeneme.WebApi\\Controllers\\v1\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:01:09.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "OkulDeneme.Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:32:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "OkulDeneme.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:32:00.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "OkulDeneme.Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:08:46.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Data\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "OkulDeneme.Data\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:08:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Entities\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "OkulDeneme.Data\\Entities\\StudentEntity.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\OkulDeneme\\OkulDeneme\\OkulDeneme.Data\\Entities\\StudentEntity.cs",
+              "RelativeToolTip": "OkulDeneme.Data\\Entities\\StudentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:02:25.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

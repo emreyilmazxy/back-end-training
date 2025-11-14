@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\bin\Debug\net8.0\pratikIlksinif.exe
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\bin\Debug\net8.0\pratikIlksinif.deps.json
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\bin\Debug\net8.0\pratikIlksinif.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\bin\Debug\net8.0\pratikIlksinif.dll
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\bin\Debug\net8.0\pratikIlksinif.pdb
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\obj\Debug\net8.0\pratikIlksinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\obj\Debug\net8.0\pratikIlksinif.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\obj\Debug\net8.0\pratikIlksinif.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\obj\Debug\net8.0\pratikIlksinif.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\obj\Debug\net8.0\pratikIlksinif.dll
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\obj\Debug\net8.0\refint\pratikIlksinif.dll
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\obj\Debug\net8.0\pratikIlksinif.pdb
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\obj\Debug\net8.0\pratikIlksinif.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\pratik ilk sınıf\pratikIlksinif\pratikIlksinif\obj\Debug\net8.0\ref\pratikIlksinif.dll

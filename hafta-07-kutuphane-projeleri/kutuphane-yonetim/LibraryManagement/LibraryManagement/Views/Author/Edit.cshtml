@@ -1,0 +1,8 @@
+﻿@model LibraryManagement.Models.AuthorFormViewModel
+
+<h1 class="text-white">Düzenle</h1>
+
+<form asp-action="Edit" method="post">
+    @Html.Partial("_AuthorForm", Model)
+
+</form>

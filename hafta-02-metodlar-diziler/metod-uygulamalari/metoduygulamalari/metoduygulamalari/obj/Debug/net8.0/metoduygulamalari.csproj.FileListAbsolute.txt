@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\obj\Debug\net8.0\metoduygulamalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\obj\Debug\net8.0\metoduygulamalari.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\obj\Debug\net8.0\metoduygulamalari.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\obj\Debug\net8.0\metoduygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\bin\Debug\net8.0\metoduygulamalari.exe
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\bin\Debug\net8.0\metoduygulamalari.deps.json
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\bin\Debug\net8.0\metoduygulamalari.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\bin\Debug\net8.0\metoduygulamalari.dll
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\bin\Debug\net8.0\metoduygulamalari.pdb
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\obj\Debug\net8.0\metoduygulamalari.dll
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\obj\Debug\net8.0\refint\metoduygulamalari.dll
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\obj\Debug\net8.0\metoduygulamalari.pdb
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\obj\Debug\net8.0\metoduygulamalari.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\metoduygulamalari\metoduygulamalari\metoduygulamalari\obj\Debug\net8.0\ref\metoduygulamalari.dll

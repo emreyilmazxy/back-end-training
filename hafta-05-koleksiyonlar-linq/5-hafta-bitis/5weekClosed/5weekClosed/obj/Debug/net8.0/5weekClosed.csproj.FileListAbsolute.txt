@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\bin\Debug\net8.0\5weekClosed.exe
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\bin\Debug\net8.0\5weekClosed.deps.json
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\bin\Debug\net8.0\5weekClosed.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\bin\Debug\net8.0\5weekClosed.dll
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\bin\Debug\net8.0\5weekClosed.pdb
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\obj\Debug\net8.0\5weekClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\obj\Debug\net8.0\5weekClosed.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\obj\Debug\net8.0\5weekClosed.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\obj\Debug\net8.0\5weekClosed.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\obj\Debug\net8.0\5weekClosed.dll
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\obj\Debug\net8.0\refint\5weekClosed.dll
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\obj\Debug\net8.0\5weekClosed.pdb
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\obj\Debug\net8.0\5weekClosed.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\5weekFinish\5weekClosed\5weekClosed\obj\Debug\net8.0\ref\5weekClosed.dll

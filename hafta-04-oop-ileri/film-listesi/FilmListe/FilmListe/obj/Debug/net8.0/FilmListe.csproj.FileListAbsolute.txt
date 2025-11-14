@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\bin\Debug\net8.0\FilmListe.exe
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\bin\Debug\net8.0\FilmListe.deps.json
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\bin\Debug\net8.0\FilmListe.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\bin\Debug\net8.0\FilmListe.dll
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\bin\Debug\net8.0\FilmListe.pdb
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\obj\Debug\net8.0\FilmListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\obj\Debug\net8.0\FilmListe.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\obj\Debug\net8.0\FilmListe.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\obj\Debug\net8.0\FilmListe.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\obj\Debug\net8.0\FilmListe.dll
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\obj\Debug\net8.0\refint\FilmListe.dll
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\obj\Debug\net8.0\FilmListe.pdb
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\obj\Debug\net8.0\FilmListe.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\obj\Debug\net8.0\ref\FilmListe.dll
+C:\Users\emrylmz\Desktop\ödevler\FilmListe\FilmListe\FilmListe\obj\Debug\net8.0\FilmListe.sourcelink.json

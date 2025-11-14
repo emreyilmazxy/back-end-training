@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\obj\Debug\net8.0\1ve2haftaozet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\obj\Debug\net8.0\1ve2haftaozet.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\obj\Debug\net8.0\1ve2haftaozet.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\obj\Debug\net8.0\1ve2haftaozet.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\bin\Debug\net8.0\1ve2haftaozet.exe
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\bin\Debug\net8.0\1ve2haftaozet.deps.json
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\bin\Debug\net8.0\1ve2haftaozet.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\bin\Debug\net8.0\1ve2haftaozet.dll
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\bin\Debug\net8.0\1ve2haftaozet.pdb
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\obj\Debug\net8.0\1ve2haftaozet.dll
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\obj\Debug\net8.0\refint\1ve2haftaozet.dll
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\obj\Debug\net8.0\1ve2haftaozet.pdb
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\obj\Debug\net8.0\1ve2haftaozet.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\1ve2haftaozet\1ve2haftaozet\1ve2haftaozet\obj\Debug\net8.0\ref\1ve2haftaozet.dll

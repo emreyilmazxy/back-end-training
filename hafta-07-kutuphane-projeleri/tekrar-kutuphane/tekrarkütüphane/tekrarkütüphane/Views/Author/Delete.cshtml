@@ -1,0 +1,20 @@
+﻿@model Author
+
+@{
+    ViewData["Title"] = "Yazarı Sil";
+}
+
+<div class="container py-5">
+    <div class="p-4 rounded-4 shadow-lg text-white" style="background: rgba(0,0,0,0.5); backdrop-filter: blur(6px);">
+        <h2 class="mb-4">🗑️ Yazarı Sil</h2>
+        <p><strong>@Model.FirstName @Model.LastName</strong> adlı yazarı silmek istediğinize emin misiniz?</p>
+
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="d-flex justify-content-start gap-3 mt-4">
+                <button type="submit" class="btn btn-danger">✔️ Evet, Sil</button>
+                <a asp-action="List" class="btn btn-secondary">↩️ Vazgeç</a>
+            </div>
+        </form>
+    </div>
+</div>

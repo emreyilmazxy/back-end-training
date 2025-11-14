@@ -1,0 +1,13 @@
+﻿@model LibraryManagement.Models.BookFormViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="text-white">Yeni Kitap Ekle</h1>
+
+<form asp-action="Create" method="post">
+    @Html.Partial("_BookForm", Model)
+
+   
+</form>

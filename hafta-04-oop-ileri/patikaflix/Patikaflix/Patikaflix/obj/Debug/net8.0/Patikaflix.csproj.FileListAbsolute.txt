@@ -1,0 +1,14 @@
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\obj\Debug\net8.0\Patikaflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\obj\Debug\net8.0\Patikaflix.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\obj\Debug\net8.0\Patikaflix.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\obj\Debug\net8.0\Patikaflix.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\bin\Debug\net8.0\Patikaflix.exe
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\bin\Debug\net8.0\Patikaflix.deps.json
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\bin\Debug\net8.0\Patikaflix.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\bin\Debug\net8.0\Patikaflix.dll
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\bin\Debug\net8.0\Patikaflix.pdb
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\obj\Debug\net8.0\Patikaflix.dll
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\obj\Debug\net8.0\refint\Patikaflix.dll
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\obj\Debug\net8.0\Patikaflix.pdb
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\obj\Debug\net8.0\Patikaflix.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\Patikaflix\Patikaflix\Patikaflix\obj\Debug\net8.0\ref\Patikaflix.dll
