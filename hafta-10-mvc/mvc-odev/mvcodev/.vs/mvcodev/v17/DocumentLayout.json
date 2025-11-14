@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\mvcodev\\mvcodev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E26907F-EDD4-435C-9BEF-64CB2ADC8746}|mvcodev\\mvcodev.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\mvcodev\\mvcodev\\mvcodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E26907F-EDD4-435C-9BEF-64CB2ADC8746}|mvcodev\\mvcodev.csproj|solutionrelative:mvcodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E26907F-EDD4-435C-9BEF-64CB2ADC8746}|mvcodev\\mvcodev.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\mvcodev\\mvcodev\\mvcodev\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E26907F-EDD4-435C-9BEF-64CB2ADC8746}|mvcodev\\mvcodev.csproj|solutionrelative:mvcodev\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E26907F-EDD4-435C-9BEF-64CB2ADC8746}|mvcodev\\mvcodev.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\mvcodev\\mvcodev\\mvcodev\\mvcodev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E26907F-EDD4-435C-9BEF-64CB2ADC8746}|mvcodev\\mvcodev.csproj|solutionrelative:mvcodev\\mvcodev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\mvcodev\\mvcodev\\mvcodev\\Program.cs",
+              "RelativeDocumentMoniker": "mvcodev\\Program.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\mvcodev\\mvcodev\\mvcodev\\Program.cs",
+              "RelativeToolTip": "mvcodev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:36:01.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\mvcodev\\mvcodev\\mvcodev\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcodev\\appsettings.json",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\mvcodev\\mvcodev\\mvcodev\\appsettings.json",
+              "RelativeToolTip": "mvcodev\\appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T12:30:12.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mvcodev",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\mvcodev\\mvcodev\\mvcodev\\mvcodev.csproj",
+              "RelativeDocumentMoniker": "mvcodev\\mvcodev.csproj",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\mvcodev\\mvcodev\\mvcodev\\mvcodev.csproj",
+              "RelativeToolTip": "mvcodev\\mvcodev.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T12:29:04.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿@model mvcproje.Models.CustomerOrderViewModel
+
+
+<p>müşteri bilgileri</p>
+<p>müşteri adı @Model.Customer.FirstName </p>
+<p>müşteri soyadı @Model.Customer.LastName </p>
+ <p>müşteri email @Model.Customer.Email </p>
+<p>müşteri id @Model.Customer.Id </p>
+
+<p>müşteri siparişleri</p>
+
+<table border="1" >
+    <thead>
+        <tr>
+            <th>Sipariş ID</th>
+            <th>Ürün Adı</th>
+            <th>Fiyat (₺)</th>
+            <th>Adet</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model.Orders)
+        {
+            <tr>
+                <td>@order.Id</td>
+                <td>@order.ProductName</td>
+                <td>@order.Price</td>
+                <td>@order.Quantity</td>
+            </tr>
+        }
+    </tbody>
+</table>

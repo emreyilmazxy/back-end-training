@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.wepapi\\helpers\\passwordyearvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|solutionrelative:bankapp.wepapi\\helpers\\passwordyearvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.wepapi\\helpers\\otpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|solutionrelative:bankapp.wepapi\\helpers\\otpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54F35BC-2D8A-4616-85DA-F34B55EE5A56}|BankApp.Business\\BankApp.Business.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.business\\operations\\useractivityy\\useractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54F35BC-2D8A-4616-85DA-F34B55EE5A56}|BankApp.Business\\BankApp.Business.csproj|solutionrelative:bankapp.business\\operations\\useractivityy\\useractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54F35BC-2D8A-4616-85DA-F34B55EE5A56}|BankApp.Business\\BankApp.Business.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.business\\operations\\twofactor\\twofactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54F35BC-2D8A-4616-85DA-F34B55EE5A56}|BankApp.Business\\BankApp.Business.csproj|solutionrelative:bankapp.business\\operations\\twofactor\\twofactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54F35BC-2D8A-4616-85DA-F34B55EE5A56}|BankApp.Business\\BankApp.Business.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.business\\operations\\twofactor\\iotpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54F35BC-2D8A-4616-85DA-F34B55EE5A56}|BankApp.Business\\BankApp.Business.csproj|solutionrelative:bankapp.business\\operations\\twofactor\\iotpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54F35BC-2D8A-4616-85DA-F34B55EE5A56}|BankApp.Business\\BankApp.Business.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.business\\dataprotection\\dataprotection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54F35BC-2D8A-4616-85DA-F34B55EE5A56}|BankApp.Business\\BankApp.Business.csproj|solutionrelative:bankapp.business\\dataprotection\\dataprotection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.wepapi\\controllers\\v1\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|solutionrelative:bankapp.wepapi\\controllers\\v1\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.wepapi\\helpers\\userloggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|solutionrelative:bankapp.wepapi\\helpers\\userloggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.wepapi\\helpers\\sequentialnumbermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|solutionrelative:bankapp.wepapi\\helpers\\sequentialnumbermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.wepapi\\validation\\strongpasswordattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|solutionrelative:bankapp.wepapi\\validation\\strongpasswordattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.wepapi\\middlewares\\maintenancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|solutionrelative:bankapp.wepapi\\middlewares\\maintenancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546FC208-B72F-4E47-9958-DD151F2A45C8}|BankApp.Data\\BankApp.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.data\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546FC208-B72F-4E47-9958-DD151F2A45C8}|BankApp.Data\\BankApp.Data.csproj|solutionrelative:bankapp.data\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546FC208-B72F-4E47-9958-DD151F2A45C8}|BankApp.Data\\BankApp.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.data\\enums\\useractiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546FC208-B72F-4E47-9958-DD151F2A45C8}|BankApp.Data\\BankApp.Data.csproj|solutionrelative:bankapp.data\\enums\\useractiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546FC208-B72F-4E47-9958-DD151F2A45C8}|BankApp.Data\\BankApp.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.data\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546FC208-B72F-4E47-9958-DD151F2A45C8}|BankApp.Data\\BankApp.Data.csproj|solutionrelative:bankapp.data\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546FC208-B72F-4E47-9958-DD151F2A45C8}|BankApp.Data\\BankApp.Data.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.data\\enums\\billtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546FC208-B72F-4E47-9958-DD151F2A45C8}|BankApp.Data\\BankApp.Data.csproj|solutionrelative:bankapp.data\\enums\\billtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\bankapp\\bankapp\\bankapp.wepapi\\controllers\\v1\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82506871-7E26-4F9C-B647-56837C2C7E95}|BankApp.WepApi\\BankApp.WepApi.csproj|solutionrelative:bankapp.wepapi\\controllers\\v1\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OtpSender.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Helpers\\OtpSender.cs",
+              "RelativeDocumentMoniker": "BankApp.WepApi\\Helpers\\OtpSender.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Helpers\\OtpSender.cs",
+              "RelativeToolTip": "BankApp.WepApi\\Helpers\\OtpSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:28:32.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Business\\Operations\\UserActivityy\\UserActivityService.cs",
+              "RelativeDocumentMoniker": "BankApp.Business\\Operations\\UserActivityy\\UserActivityService.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Business\\Operations\\UserActivityy\\UserActivityService.cs",
+              "RelativeToolTip": "BankApp.Business\\Operations\\UserActivityy\\UserActivityService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:27:43.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TwoFactorService.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Business\\Operations\\TwoFactor\\TwoFactorService.cs",
+              "RelativeDocumentMoniker": "BankApp.Business\\Operations\\TwoFactor\\TwoFactorService.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Business\\Operations\\TwoFactor\\TwoFactorService.cs",
+              "RelativeToolTip": "BankApp.Business\\Operations\\TwoFactor\\TwoFactorService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:27:35.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOtpSender.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Business\\Operations\\TwoFactor\\IOtpSender.cs",
+              "RelativeDocumentMoniker": "BankApp.Business\\Operations\\TwoFactor\\IOtpSender.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Business\\Operations\\TwoFactor\\IOtpSender.cs",
+              "RelativeToolTip": "BankApp.Business\\Operations\\TwoFactor\\IOtpSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:27:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataProtection.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Business\\DataProtection\\DataProtection.cs",
+              "RelativeDocumentMoniker": "BankApp.Business\\DataProtection\\DataProtection.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Business\\DataProtection\\DataProtection.cs",
+              "RelativeToolTip": "BankApp.Business\\DataProtection\\DataProtection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:27:15.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillsController.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Controllers\\V1\\BillsController.cs",
+              "RelativeDocumentMoniker": "BankApp.WepApi\\Controllers\\V1\\BillsController.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Controllers\\V1\\BillsController.cs",
+              "RelativeToolTip": "BankApp.WepApi\\Controllers\\V1\\BillsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:58.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLoggerHelper.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Helpers\\UserLoggerHelper.cs",
+              "RelativeDocumentMoniker": "BankApp.WepApi\\Helpers\\UserLoggerHelper.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Helpers\\UserLoggerHelper.cs",
+              "RelativeToolTip": "BankApp.WepApi\\Helpers\\UserLoggerHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:44.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SequentialNumberMethod.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Helpers\\SequentialNumberMethod.cs",
+              "RelativeDocumentMoniker": "BankApp.WepApi\\Helpers\\SequentialNumberMethod.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Helpers\\SequentialNumberMethod.cs",
+              "RelativeToolTip": "BankApp.WepApi\\Helpers\\SequentialNumberMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:42.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordYearValidator.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Helpers\\PasswordYearValidator.cs",
+              "RelativeDocumentMoniker": "BankApp.WepApi\\Helpers\\PasswordYearValidator.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Helpers\\PasswordYearValidator.cs",
+              "RelativeToolTip": "BankApp.WepApi\\Helpers\\PasswordYearValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:41.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StrongPasswordAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Validation\\StrongPasswordAttribute.cs",
+              "RelativeDocumentMoniker": "BankApp.WepApi\\Validation\\StrongPasswordAttribute.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Validation\\StrongPasswordAttribute.cs",
+              "RelativeToolTip": "BankApp.WepApi\\Validation\\StrongPasswordAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:28.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaintenanceMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Middlewares\\MaintenanceMiddleware.cs",
+              "RelativeDocumentMoniker": "BankApp.WepApi\\Middlewares\\MaintenanceMiddleware.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Middlewares\\MaintenanceMiddleware.cs",
+              "RelativeToolTip": "BankApp.WepApi\\Middlewares\\MaintenanceMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:20.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Data\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "BankApp.Data\\Enums\\UserType.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Data\\Enums\\UserType.cs",
+              "RelativeToolTip": "BankApp.Data\\Enums\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserActionType.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Data\\Enums\\UserActionType.cs",
+              "RelativeDocumentMoniker": "BankApp.Data\\Enums\\UserActionType.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Data\\Enums\\UserActionType.cs",
+              "RelativeToolTip": "BankApp.Data\\Enums\\UserActionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Data\\Enums\\TransactionType.cs",
+              "RelativeDocumentMoniker": "BankApp.Data\\Enums\\TransactionType.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Data\\Enums\\TransactionType.cs",
+              "RelativeToolTip": "BankApp.Data\\Enums\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:02.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BillType.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Data\\Enums\\BillType.cs",
+              "RelativeDocumentMoniker": "BankApp.Data\\Enums\\BillType.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.Data\\Enums\\BillType.cs",
+              "RelativeToolTip": "BankApp.Data\\Enums\\BillType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:25:59.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Controllers\\V1\\SettingsController.cs",
+              "RelativeDocumentMoniker": "BankApp.WepApi\\Controllers\\V1\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\BankApp\\BankApp\\BankApp.WepApi\\Controllers\\V1\\SettingsController.cs",
+              "RelativeToolTip": "BankApp.WepApi\\Controllers\\V1\\SettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:22:13.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

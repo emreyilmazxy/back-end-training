@@ -1,0 +1,16 @@
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\bin\Debug\net8.0\BankApp.Business.deps.json
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\bin\Debug\net8.0\BankApp.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\bin\Debug\net8.0\BankApp.Business.pdb
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\bin\Debug\net8.0\BankApp.Data.dll
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\bin\Debug\net8.0\BankApp.Data.pdb
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\BankApp.Business.csproj.AssemblyReference.cache
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\BankApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\BankApp.Business.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\BankApp.Business.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\BankApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\BankApp..8B729C36.Up2Date
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\BankApp.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\refint\BankApp.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\BankApp.Business.pdb
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\ref\BankApp.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\BankApp\BankApp\BankApp.Business\obj\Debug\net8.0\BankApp.Business.sourcelink.json

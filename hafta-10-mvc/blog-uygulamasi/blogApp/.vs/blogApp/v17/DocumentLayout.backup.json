@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\blogapp\\blogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF33C693-C894-4664-9E0F-01503A3C3DE8}|blogApp\\blogApp.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\blogapp\\blogapp\\blogapp\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF33C693-C894-4664-9E0F-01503A3C3DE8}|blogApp\\blogApp.csproj|solutionrelative:blogapp\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF33C693-C894-4664-9E0F-01503A3C3DE8}|blogApp\\blogApp.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\blogapp\\blogapp\\blogapp\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF33C693-C894-4664-9E0F-01503A3C3DE8}|blogApp\\blogApp.csproj|solutionrelative:blogapp\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF33C693-C894-4664-9E0F-01503A3C3DE8}|blogApp\\blogApp.csproj|c:\\users\\emrylmz\\desktop\\\u00F6devler\\blogapp\\blogapp\\blogapp\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF33C693-C894-4664-9E0F-01503A3C3DE8}|blogApp\\blogApp.csproj|solutionrelative:blogapp\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\blogapp\\blogApp\\blogApp\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "blogApp\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\blogapp\\blogApp\\blogApp\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "blogApp\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T19:12:02.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\blogapp\\blogApp\\blogApp\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "blogApp\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\blogapp\\blogApp\\blogApp\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "blogApp\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:21:12.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\blogapp\\blogApp\\blogApp\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "blogApp\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\emrylmz\\Desktop\\\u00F6devler\\blogapp\\blogApp\\blogApp\\Models\\BlogPost.cs",
+              "RelativeToolTip": "blogApp\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:48:01.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

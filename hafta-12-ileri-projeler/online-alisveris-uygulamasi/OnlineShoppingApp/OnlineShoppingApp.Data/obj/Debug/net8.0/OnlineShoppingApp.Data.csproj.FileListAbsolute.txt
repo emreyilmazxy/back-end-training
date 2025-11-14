@@ -1,0 +1,15 @@
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\bin\Debug\net8.0\OnlineShoppingApp.Data.deps.json
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\bin\Debug\net8.0\OnlineShoppingApp.Data.runtimeconfig.json
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\bin\Debug\net8.0\OnlineShoppingApp.Data.dll
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\bin\Debug\net8.0\OnlineShoppingApp.Data.pdb
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\OnlineShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\OnlineShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\OnlineShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\OnlineShoppingApp.Data.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\OnlineShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\OnlineShoppingApp.Data.dll
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\refint\OnlineShoppingApp.Data.dll
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\OnlineShoppingApp.Data.pdb
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\OnlineShoppingApp.Data.genruntimeconfig.cache
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\ref\OnlineShoppingApp.Data.dll
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Data\obj\Debug\net8.0\OnlineShoppingApp.Data.sourcelink.json

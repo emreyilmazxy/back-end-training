@@ -1,0 +1,16 @@
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\bin\Debug\net8.0\OnlineShoppingApp.Business.deps.json
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\bin\Debug\net8.0\OnlineShoppingApp.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\bin\Debug\net8.0\OnlineShoppingApp.Business.pdb
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\bin\Debug\net8.0\OnlineShoppingApp.Data.dll
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\bin\Debug\net8.0\OnlineShoppingApp.Data.pdb
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\OnlineShoppingApp.Business.csproj.AssemblyReference.cache
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\OnlineShoppingApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\OnlineShoppingApp.Business.AssemblyInfoInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\OnlineShoppingApp.Business.AssemblyInfo.cs
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\OnlineShoppingApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\OnlineSh.34CFF6C9.Up2Date
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\OnlineShoppingApp.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\refint\OnlineShoppingApp.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\OnlineShoppingApp.Business.pdb
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\ref\OnlineShoppingApp.Business.dll
+C:\Users\emrylmz\Desktop\ödevler\OnlineShoppingApp\OnlineShoppingApp\OnlineShoppingApp.Business\obj\Debug\net8.0\OnlineShoppingApp.Business.sourcelink.json
